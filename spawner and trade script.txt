@@ -1,5 +1,5 @@
 -- ══════════════════════════════════════════════════════════
---  ruby.cc — Visual Spawner
+--  Jqser — Visual Spawner
 -- ══════════════════════════════════════════════════════════
 
 -- wait for the place to finish initial load before running anything;
